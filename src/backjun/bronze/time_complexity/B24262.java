@@ -5,7 +5,7 @@ package backjun.bronze.time_complexity;
 유형: 시간복잡도
 핵심: 처음 제시한 알고리즘을 이용한다는 이해 필요
 */
-public class b24262 {
+public class B24262 {
     public static void main(String[] args) {
         System.out.println(1);
         System.out.println(0);

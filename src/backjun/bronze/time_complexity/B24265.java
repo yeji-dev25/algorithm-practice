@@ -7,7 +7,7 @@ import java.util.Scanner;
 유형: 시간복잡도
 핵심: n보다 1 작은 수를 순차적으로 더해야함
 */
-public class b24265 {
+public class B24265 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

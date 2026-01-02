@@ -7,7 +7,7 @@ import java.util.Scanner;
 유형: 시간복잡도
 핵심: 처음 제시한 알고리즘을 이용한다는 이해 필요
 */
-public class b24263 {
+public class B24263 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
