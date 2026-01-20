@@ -7,7 +7,7 @@ import java.util.Scanner;
 유형: 약수와 배수
 핵심: 소수 판별 코드
 */
-public class B4134 {
+public class A4134 {
 
     // 소수 판별 함수
     static boolean isPrime(long x) {

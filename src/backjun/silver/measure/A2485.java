@@ -7,7 +7,7 @@ import java.util.Scanner;
 유형: 약수와 배수
 핵심: 여러수의 최대공약수 구하기.
 */
-public class B2485 {
+public class A2485 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

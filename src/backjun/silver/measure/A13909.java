@@ -7,7 +7,7 @@ import java.util.Scanner;
 유형: 약수와 배수
 핵심: 완전제곱수 특징 이해
 */
-public class B13909 {
+public class A13909 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

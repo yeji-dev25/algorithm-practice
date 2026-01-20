@@ -7,7 +7,7 @@ import java.util.Scanner;
 유형: 약수와 배수
 핵심: 에라토스테네스의 체 응용문제
 */
-public class B17103 {
+public class A17103 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
